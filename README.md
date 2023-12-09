@@ -160,8 +160,11 @@ The template concludes with a script section for populating apartment numbers an
 
 
 HOW TO RUN THE APP:
+
 git clone https://github.com/Angeluz99/Capstone.git
+
 cd Capstone
+
 pip install -r requirements.txt
 
 When the dependent packages are installed, you can run this command to run your server.
